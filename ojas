@@ -1,3 +1,0 @@
-sudo apt docker.io
-sudo docker build -t abcd .
-sudo docker run -d -p 8081:7667 abcd 
